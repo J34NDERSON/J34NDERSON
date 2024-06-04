@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Seja bem vindo(a) ao meu perfil 
 
- <div>
-   <a href="https://github.com/ J34NDERSON">
+<div>
+   <a href="https://github.com/J34NDERSON">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username= J34NDERSON&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username= J34NDERSON&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
